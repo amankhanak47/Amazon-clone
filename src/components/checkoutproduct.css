@@ -1,0 +1,28 @@
+.cproduct{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cprod-info{
+    padding-left: 20px;
+
+}
+.cprod-img{
+    width: 100px;
+    height: 100px;
+}
+.cprod-tittle{
+    font-size: 17px;
+    font-weight: 700;
+}
+.cprod-info button{
+    background-color: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734;
+    color: #111;
+}
+.cprod-rating{
+    display: flex;
+}
